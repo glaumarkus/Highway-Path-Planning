@@ -7,6 +7,9 @@
 
 ---
 
+For Setup & Dependencies please refer to official [udacity repository](https://github.com/udacity/CarND-Path-Planning-Project).
+
+
 The goals of this project are the following:
 - car is able to drive at least 4.32 miles without incident
 - car obeys the speed limit
