@@ -1,7 +1,5 @@
 # Highway Path Planning 
 
-
-# Lane changes
 <p align="center">
 	<img src="/media/lane_change_showcase.gif" alt="result"
 	title="result"  />
